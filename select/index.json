@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Thorns",
+  "base_artist": "Jelly Roll",
+  "createdAt": "2026-03-27T17:26:27.692295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Edge Of Thorns",
+      "artist": "Powerwolf",
+      "has_synced": false,
+      "path": "select/01_Edge_Of_Thorns_Powerwolf.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thorns",
+      "artist": "Alex G",
+      "has_synced": false,
+      "path": "select/02_Thorns_Alex_G.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thorns",
+      "artist": "Luna Shadows",
+      "has_synced": true,
+      "path": "select/03_Thorns_Luna_Shadows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thorns",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/04_Thorns_BONES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thorns",
+      "artist": "Dead Astronauts",
+      "has_synced": false,
+      "path": "select/05_Thorns_Dead_Astronauts.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Path Of Thorns - Terms",
+      "artist": "Sarah McLachlan",
+      "has_synced": false,
+      "path": "select/06_The_Path_Of_Thorns_-_Terms_Sarah_McLachlan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Path Of Thorns (Terms)",
+      "artist": "Sarah McLachlan",
+      "has_synced": true,
+      "path": "select/07_The_Path_Of_Thorns_(Terms)_Sarah_McLachlan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thorns of Crimson Death",
+      "artist": "Dissection",
+      "has_synced": false,
+      "path": "select/08_Thorns_of_Crimson_Death_Dissection.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thorns of Deception",
+      "artist": "Sear Bliss",
+      "has_synced": false,
+      "path": "select/09_Thorns_of_Deception_Sear_Bliss.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crown of Thorns",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/10_Crown_of_Thorns_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crown of Thorns",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/11_Crown_of_Thorns_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crown Of Thorns",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/12_Crown_Of_Thorns_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Clown Of Thorns",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/13_A_Clown_Of_Thorns_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Edge of Thorns",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/14_Edge_of_Thorns_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Edge of Thorns",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/15_Edge_of_Thorns_Savatage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thorns",
+      "artist": "JELLY ROLL",
+      "has_synced": false,
+      "path": "select/pl_01_Thorns_JELLY_ROLL.txt"
+    }
+  ]
+}
